@@ -23,4 +23,4 @@ git clone https://github.com/NEOLabs-software/example-form-html.git
 ```
 **copy the output of the command into your clipboard**
 
-5.paste the link into your browser
+5. paste the link into your browser
