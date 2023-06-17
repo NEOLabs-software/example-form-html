@@ -24,3 +24,19 @@ git clone https://github.com/NEOLabs-software/example-form-html.git
 **copy the output of the command into your clipboard**
 
 5. paste the link into your browser
+
+## using
+
+**this is FOSS software(which means it is free and open source)**
+you have the freedome to use this example as a means of
+
+* learning
+* in your page
+* fun
+* other
+
+just remember, if you are making a website with this example, remember to credit me(can be in about section)
+
+### credits
+
+thank you to [w3schools](https://w3schools.com/) for providing basic html layout
