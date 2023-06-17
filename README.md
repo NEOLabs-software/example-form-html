@@ -19,7 +19,7 @@ git clone https://github.com/NEOLabs-software/example-form-html.git
 2. cd into the repository
 3. init the localhost
 ```
-
+./init.sh
 ```
 **copy the output of the command into your clipboard**
 
@@ -40,3 +40,7 @@ just remember, if you are making a website with this example, remember to credit
 ### credits
 
 thank you to [w3schools](https://w3schools.com/) for providing basic html layout
+
+**created by NEOLabs-software**
+
+![neolabs](https://github.com/NEOLabs-software/example-form-html/assets/101670923/7acb51d9-c48f-470a-9473-981358fb4865)
